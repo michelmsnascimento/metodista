@@ -42,10 +42,10 @@ CREATE TABLE `clientes` (
 --
 
 INSERT INTO `clientes` (`Id_cliente`, `Nome_cliente`, `Idade_cliente`, `Genero_cliente`, `Data_Nasc_Cliente`, `Email_Cliente`, `Curso_Cliente`) VALUES
-('0001', 'Michel Moraes', 30, 'Masc', '0000-00-00', 'michel_073@hotmail.com', 'Sistemas de Informacao'),
-('0002', 'Michel Moraes', 30, 'Masc', '0000-00-00', 'michel_073@hotmail.com', 'Sistemas de Informacao'),
-('0003', 'Michel Moraes', 30, 'Masc', '0000-00-00', 'michel_073@hotmail.com', 'Sistemas de Informacao'),
-('0004', 'Michel Moraes', 30, 'Masc', '0000-00-00', 'michel_073@hotmail.com', 'Sistemas de Informacao');
+('0001', 'Michel Moraes', 30, 'Masculino', '1991-02-02', 'michel_073@hotmail.com', 'Sistemas de Informacao'),
+('0002', 'Kelly Cristina', 30, 'Feminino', '1993-12-12', 'kellycristina_dng@hotmail.com', 'Analise e desenvolvimento de Sistemas'),
+('0003', 'Michel Moraes', 30, 'Masculino', '1991-02-02', 'michel_073@hotmail.com', 'PHP AVANÇADO'),
+('0004', 'Michel Moraes', 30, 'Masculino', '1991-02-02', 'michel_073@hotmail.com', 'AZURE');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
