@@ -1,0 +1,123 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+
+
+header{
+
+	background-color:#ffffffec;
+	text-align: center;
+	font-family: fantasy;
+	border:5px solid #ffffff;
+}
+
+header p {
+	border: 3px solid #ffffff;
+	text-shadow: 1px 1px 2px black;
+	font-size: 2.1875em;
+	color:#ffffff;
+	padding: 5px 2px;
+	letter-spacing: 1px;
+	margin: 7px 7px;
+}
+
+
+
+
+#apresentacao{
+	margin-top: 100px;
+	margin-bottom: 100px;			
+}
+
+
+
+#submit:hover{
+	border:inset 5px #808080;
+}
+
+#banner{
+	width:50%;
+	height:290px;
+}
+
+#resultado{
+	margin-top: 80px;
+}
+
+.ocultar{
+	display: none;
+}
+
+.enunciado{
+	font-weight: bold;
+	text-indent: 10px;
+}
+
+
+div{
+	text-align: center;
+}
+
+form {
+	margin-top: 100px;
+}
+
+fieldset input{
+	margin-left: 10px;
+}
+
+input,label:hover{
+	cursor:pointer;
+}
+
+legend{
+	text-align: left;
+	text-indent: 10px;
+	text-shadow: 1px 1px 1px black;
+	color:rgb(9, 46, 253);
+}
+			
+article {
+	border-left: 3px double rgb(255, 255, 255);
+	border-right: 3px double rgb(255, 255, 255);
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+	background-color:#E8E8E8;
+	padding: 40px;
+	box-shadow: 1px 1px 3px rgb(255, 255, 255);
+			
+}			
+
+form article:hover{
+	box-shadow: 1px 1px 20px black;
+}
+
+#apresentacao p {
+	text-indent:10px;
+	font-family:monospace;
+	font-size: 17px;	
+}
+
+footer {
+	background-color:#ffffff;
+	text-align: center;
+	height: 80px;
+	margin-top: 100px;
+	border-top: 3px solid #ffffff;
+	font-size: 0.75em;
+}
+
+footer p{
+	padding:20px;
+}
+
+
+
+@media screen and (max-width:480px){/* Smartphones no formato paisagem com tela pequena*/
+
+
+}
