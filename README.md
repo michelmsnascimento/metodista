@@ -1,6 +1,5 @@
 ## metodista
-compartilhamento de trabalhos desenvolvidos em bacharelado em sistemas de informação
-Codigos úteis para Devs
+Projetos desenvolvidos Bacharelado de Sistemas de Informação
 
 ## Pasta Programação Web
 
